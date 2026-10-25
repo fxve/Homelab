@@ -1,6 +1,6 @@
 # Homelab
 
-Self-hosted lab built on Proxmox for hands-on experience with virtualization and self use
+Self-hosted lab built on Proxmox for hands-on experience with virtualization,
 Docker, networking, and remote access. Started July 2026.
 
 ## Overview
